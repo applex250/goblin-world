@@ -1,0 +1,34 @@
+baseURL = "https://applex250.github.io/goblin-world/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "哥布林世界 Goblin World"
+theme = "hugo-theme-gallery"
+enableRobotsTXT = true
+timeout = "120s"
+
+[params]
+  defaultTheme = "dark"
+  description = "AI 生成的哥布林画廊 - 各种各样的哥布林, DreamLite 生成 + RealESRGAN 超分"
+  title = "哥布林世界"
+  [params.author]
+    name = "Goblin World"
+  [params.gallery]
+    boxSpacing = 10
+    targetRowHeight = 288
+    targetRowHeightTolerance = 0.25
+
+[imaging]
+  quality = 80
+  resampleFilter = "Lanczos"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
