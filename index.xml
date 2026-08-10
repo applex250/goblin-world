@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>哥布林世界 Goblin World</title>
+    <link>https://applex250.github.io/goblin-world/</link>
+    <description>Recent content on 哥布林世界 Goblin World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://applex250.github.io/goblin-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哥布林世界 - 1000 职业哥布林</title>
+      <link>https://applex250.github.io/goblin-world/goblins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://applex250.github.io/goblin-world/goblins/</guid>
+        <media:content url="https://applex250.github.io/goblin-world/goblins/goblin_0001_%E5%AE%AB%E5%BB%B7%E9%93%81%E5%8C%A0_hu_3bbd74338b959bd5.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://applex250.github.io/goblin-world/goblins/goblin_0001_%E5%AE%AB%E5%BB%B7%E9%93%81%E5%8C%A0_hu_3bbd74338b959bd5.png&quot; /&gt;
+          &lt;p&gt;1000 张职业各异的邪恶哥布林 - AI 生成(DreamLite) + RealESRGAN 超分增强&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
